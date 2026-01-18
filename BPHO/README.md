@@ -1,11 +1,8 @@
 # BPhO Computational Challenge
 
-This project was completed as part of the British Physics Olympiad
-Computational Challenge, where I explored orbital mechanics and solar
-system dynamics using numerical methods and visualization.
+This project was completed as part of the British Physics Olympiad Computational Challenge, where I explored orbital mechanics and solar system dynamics using numerical methods and visualization.
 
-The work involved building models from first principles with a focus on understanding how
-physical laws translate into computation.
+The work involved building models from first principles with a focus on understanding how physical laws translate into computation.
 
 ## What I worked on
 - Verified Kepler’s Third Law using real solar system data
