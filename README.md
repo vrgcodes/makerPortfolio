@@ -1,6 +1,6 @@
 # Engineering Projects – Veer Gudhka
 
-This repository contains engineering projects that covr
+This repository contains engineering projects that cover
 rocketry, control systems, physics-based simulation, embedded systems,
 and full-stack software.
 
